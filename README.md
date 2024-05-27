@@ -1,3 +1,10 @@
+# About
+An idea of a collective retro-arcade game platform for players around the globe with multiplayer support
+
+# Under Development
+## Contributions closed for now
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
